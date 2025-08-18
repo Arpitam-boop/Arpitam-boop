@@ -1,5 +1,4 @@
-## Hi there 👋
-<!-- Header -->
+
 <div align="center" style="margin-bottom: 16px;">
   <h1 style="margin: 0;">Arpita Mandal</h1>
   <p style="margin: 6px 0 0 0; font-weight: 600;">
@@ -87,7 +86,7 @@
 
 <!-- Contact -->
 <p align="center" style="font-weight: 600;">
-  Open to internships and collabs — <a href="mailto:arpitamandal11broll4@gmail.com">Email</a>
+  Open to internships and collabs — <a href="mailto:arpitamandal11broll4@gmail.com">arpitamandal11broll4@gmail.com</a>
 </p>
 
 
