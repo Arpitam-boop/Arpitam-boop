@@ -11,7 +11,7 @@
 
 <!-- Quick Links -->
 <p align="center" style="margin: 10px 0 22px 0;">
-  <a href="https://acrobat.adobe.com/id/urn:aaid:sc:AP:544c9c61-a284-4cc4-b32f-a282e2fc5687" target="_blank">Portfolio</a> •
+  <a href="https://acrobat.adobe.com/id/urn:aaid:sc:ap:cd35d0f3-586f-4d26-9bc6-00613d1d94ab">Portfolio</a> •
   <a href="https://www.linkedin.com/in/arpita-mandal-420478282/" target="_blank">LinkedIn</a> •
   <a href="mailto:arpitamandal11broll4@gmail.com">Email</a>
 </p>
